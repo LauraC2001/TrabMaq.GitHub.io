@@ -200,7 +200,7 @@ body{
 
 
 
-  @media  (max-width: 385px){
+  @media  (max-width: 395px){
     #header{
         flex-direction: column;
     }
